@@ -1,0 +1,73 @@
+HydrAIDE Graylog Logger – LGPL-3.0 License
+===========================================
+
+Copyright (C) 2025
+Gebri Péter & Trendizz Systems
+
+This library is free software; you may redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 3 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, see <https://www.gnu.org/licenses/>.
+
+---
+
+## 🧾 Additional Terms and Conditions
+
+This Graylog logging hook is part of the **HydrAIDE SDK**, developed by
+**Gebri Péter** and **Trendizz Systems**, and serves as a pluggable log interface
+for **HydrAIDE Core** and **HydrAIDE Server** systems.
+
+### 1. ✅ Permitted Usage
+
+You may freely use this library in personal, internal, or commercial software,
+as long as your usage complies with the LGPL v3 license.
+
+### 2. 🛠️ Derivative Works
+
+Any forks or modifications of this library:
+- Must retain LGPL v3 licensing,
+- Must include attribution to the original authors,
+- Must clearly document any changes made.
+
+### 3. 🚫 No HydrAIDE Core Access
+
+This library **does not** include access to the **HydrAIDE Core Engine**.
+Use of the Core (search engine, segment engine, etc.) is governed by
+**SSPL v1 + custom commercial terms**, and must be licensed separately.
+
+You may not:
+- Offer the Core or its derivatives as a SaaS or public service,
+- Expose any part of the Core through external APIs without license,
+- Rebrand or white-label the system as your own.
+
+For commercial use or redistribution of the HydrAIDE Core, contact:
+
+📧 peter.gebri@trendizz.com
+🌐 https://hydraide.io
+
+### 4. 🔒 License Integrity
+
+Any attempt to:
+- Falsely claim authorship,
+- Re-license this code under a conflicting license,
+- or use it to build a public service on top of unlicensed HydrAIDE components
+will void your rights granted under this license.
+
+---
+
+## 👤 Authors
+
+**Gebri Péter**
+Trendizz Systems
+📧 peter.gebri@trendizz.com
+🔗 https://hydraide.io
+
+📅 Last updated: 2025-07-18
